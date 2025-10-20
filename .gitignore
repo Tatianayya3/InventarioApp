@@ -1,0 +1,27 @@
+# Maven / Build
+target/
+*.war
+*.ear
+*.jar
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+**/nbactions*.xml
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS / temp
+Thumbs.db
+.DS_Store
+*.log
+*.tmp
+
+# Servidores / llaves
+glassfish*/
+*.jks
+*.keystore

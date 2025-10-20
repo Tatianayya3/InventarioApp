@@ -1,5 +1,0 @@
-com\inventario\model\Producto.class
-com\inventario\controller\ProductoServlet.class
-com\inventario\filter\TiempoRespuestaFilter.class
-com\inventario\persistence\ProductoDAO.class
-com\inventario\facade\ProductoFacade.class
